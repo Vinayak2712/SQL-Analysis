@@ -16,4 +16,5 @@
 | [1415-students-and-examinations](https://github.com/Vinayak2712/SQL-Analysis/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Vinayak2712/SQL-Analysis/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/Vinayak2712/SQL-Analysis/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vinayak2712/SQL-Analysis/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
